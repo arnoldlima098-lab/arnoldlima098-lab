@@ -7,7 +7,7 @@
 - Python
 - Git
 - GitHub
-- HTML e CSS (em aprendizado)
+- HTML e CSS (em desenvolvimento)
 
 ## Objetivos
 
